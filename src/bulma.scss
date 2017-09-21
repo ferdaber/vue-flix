@@ -1,0 +1,14 @@
+@import "~bulma/sass/utilities/initial-variables";
+
+$primary: #4fc08d;
+$danger: #ff3838;
+
+@import "~bulma";
+
+:root {
+    overflow-y: auto;
+}
+
+.subtitle {
+    color: inherit;
+}
